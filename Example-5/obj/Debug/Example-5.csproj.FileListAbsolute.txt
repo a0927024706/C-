@@ -1,0 +1,10 @@
+C:\Users\Neo\Desktop\Exsample-2\Example-5\bin\Debug\Example-5.exe.config
+C:\Users\Neo\Desktop\Exsample-2\Example-5\bin\Debug\Example-5.exe
+C:\Users\Neo\Desktop\Exsample-2\Example-5\bin\Debug\Example-5.pdb
+C:\Users\Neo\Desktop\Exsample-2\Example-5\obj\Debug\Example_5.MainForm.resources
+C:\Users\Neo\Desktop\Exsample-2\Example-5\obj\Debug\Example_5.Properties.Resources.resources
+C:\Users\Neo\Desktop\Exsample-2\Example-5\obj\Debug\Example-5.csproj.GenerateResource.Cache
+C:\Users\Neo\Desktop\Exsample-2\Example-5\obj\Debug\Example-5.csproj.CoreCompileInputs.cache
+C:\Users\Neo\Desktop\Exsample-2\Example-5\obj\Debug\Example-5.exe
+C:\Users\Neo\Desktop\Exsample-2\Example-5\obj\Debug\Example-5.pdb
+C:\Users\Neo\Desktop\Exsample-2\Example-5\obj\Debug\Example-5.csprojResolveAssemblyReference.cache
